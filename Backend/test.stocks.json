@@ -1,0 +1,242 @@
+[
+  {
+      "company": "Apple Inc.",
+      "description": "Apple Inc. is an American multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services. It is known for its iPhone smartphones, Mac computers, iPad tablets, and Apple Watch smartwatches.",
+      "initial_price": 24.53,
+      "price_2002": 14.75,
+      "price_2007": 134.04,
+      "symbol": "AAPL"
+  },
+  {
+      "company": "Amazon.com Inc.",
+      "description": "Amazon.com Inc. is an American multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry.",
+      "initial_price": 15.31,
+      "price_2002": 15.72,
+      "price_2007": 84.56,
+      "symbol": "AMZN"
+  },
+  {
+      "company": "Microsoft Corporation",
+      "description": "Microsoft Corporation is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. It is known for its Windows operating systems and Office suite of productivity software.",
+      "initial_price": 21.38,
+      "price_2002": 21.98,
+      "price_2007": 29.86,
+      "symbol": "MSFT"
+  },
+  {
+      "company": "Alphabet Inc.",
+      "description": "Alphabet Inc. is an American multinational conglomerate primarily known as the parent company of Google and several former Google subsidiaries. It is one of the world's most valuable companies.",
+      "initial_price": 46.00,
+      "price_2002": 100.34,
+      "price_2007": 553.39,
+      "symbol": "GOOGL"
+  },
+  {
+      "company": "Facebook, Inc.",
+      "description": "Facebook, Inc. is an American social media conglomerate corporation. It is known for its social networking services, including Facebook, Instagram, WhatsApp, and Oculus.",
+      "initial_price": 38.23,
+      "price_2002": 0,
+      "price_2007": 0,
+      "symbol": "FB"
+  },
+  {
+      "company": "Tesla, Inc.",
+      "description": "Tesla, Inc. is an American electric vehicle and clean energy company. It designs, manufactures, and sells electric cars, electric vehicle powertrain components, and battery energy storage systems.",
+      "initial_price": 17.00,
+      "price_2002": 0,
+      "price_2007": 0,
+      "symbol": "TSLA"
+  },
+  {
+      "company": "Johnson & Johnson",
+      "description": "Johnson & Johnson is an American multinational corporation that develops medical devices, pharmaceuticals, and consumer packaged goods. It is one of the world's largest healthcare companies.",
+      "initial_price": 37.82,
+      "price_2002": 44.63,
+      "price_2007": 62.33,
+      "symbol": "JNJ"
+  },
+  {
+      "company": "Visa Inc.",
+      "description": "Visa Inc. is an American multinational financial services corporation. It facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards, and prepaid cards.",
+      "initial_price": 11.20,
+      "price_2002": 0,
+      "price_2007": 0,
+      "symbol": "V"
+  },
+  {
+      "company": "Procter & Gamble Company",
+      "description": "Procter & Gamble Company is an American multinational consumer goods corporation. It specializes in a wide range of personal health/consumer health, personal care, and hygiene products.",
+      "initial_price": 86.57,
+      "price_2002": 55.71,
+      "price_2007": 68.29,
+      "symbol": "PG"
+  },
+  {
+      "company": "Intel Corporation",
+      "description": "Intel Corporation is an American multinational corporation and technology company. It is the world's largest and highest-valued semiconductor chip manufacturer.",
+      "initial_price": 21.00,
+      "price_2002": 19.74,
+      "price_2007": 20.41,
+      "symbol": "INTC"
+  },
+  {
+      "company": "Coca-Cola Company",
+      "description": "The Coca-Cola Company is an American multinational beverage corporation. It is best known for its flagship product Coca-Cola, invented in 1886 by pharmacist John Stith Pemberton in Atlanta, Georgia.",
+      "initial_price": 40.37,
+      "price_2002": 44.28,
+      "price_2007": 61.10,
+      "symbol": "KO"
+  },
+  {
+      "company": "Walmart Inc.",
+      "description": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. It is the world's largest company by revenue.",
+      "initial_price": 14.56,
+      "price_2002": 50.89,
+      "price_2007": 47.76,
+      "symbol": "WMT"
+  },
+  {
+      "company": "Exxon Mobil Corporation",
+      "description": "Exxon Mobil Corporation is an American multinational oil and gas corporation. It is the largest direct descendant of John D. Rockefeller's Standard Oil Company, and it is one of the world's largest publicly traded companies.",
+      "initial_price": 38.11,
+      "price_2002": 37.71,
+      "price_2007": 81.92,
+      "symbol": "XOM"
+  },
+  {
+      "company": "Verizon Communications Inc.",
+      "description": "Verizon Communications Inc. is an American multinational telecommunications conglomerate. It is one of the largest wireless carriers in the United States.",
+      "initial_price": 19.42,
+      "price_2002": 21.14,
+      "price_2007": 35.17,
+      "symbol": "VZ"
+  },
+  {
+      "company": "Merck & Co., Inc.",
+      "description": "Merck & Co., Inc. is an American multinational pharmaceutical company. It is among the world's largest pharmaceutical companies.",
+      "initial_price": 33.65,
+      "price_2002": 52.25,
+      "price_2007": 43.02,
+      "symbol": "MRK"
+  },
+  {
+      "company": "Pfizer Inc.",
+      "description": "Pfizer Inc. is an American multinational pharmaceutical corporation. It is one of the world's largest pharmaceutical companies and ranked 64 on the 2020 Fortune 500 list of the largest United States corporations by total revenue.",
+      "initial_price": 29.16,
+      "price_2002": 38.20,
+      "price_2007": 25.80,
+      "symbol": "PFE"
+  },
+  {
+      "company": "AT&T Inc.",
+      "description": "AT&T Inc. is an American multinational conglomerate holding company. It is the world's largest telecommunications company, the largest provider of mobile telephone services, and the largest provider of fixed telephone services in the United States.",
+      "initial_price": 23.50,
+      "price_2002": 13.63,
+      "price_2007": 42.79,
+      "symbol": "T"
+  },
+  {
+      "company": "AbbVie Inc.",
+      "description": "AbbVie Inc. is an American publicly traded biopharmaceutical company founded in 2013. It originated as a spin-off of Abbott Laboratories.",
+      "initial_price": 34.90,
+      "price_2002": 0,
+      "price_2007": 0,
+      "symbol": "ABBV"
+  },
+  {
+      "company": "Netflix, Inc.",
+      "description": "Netflix, Inc. is an American over-the-top content platform and production company. It is one of the world's largest providers of streaming television series and films.",
+      "initial_price": 7.83,
+      "price_2002": 0,
+      "price_2007": 0,
+      "symbol": "NFLX"
+  },
+  {
+      "company": "Cisco Systems, Inc.",
+      "description": "Cisco Systems, Inc. is an American multinational technology conglomerate. It develops, manufactures, and sells networking hardware, software, telecommunications equipment, and other high-technology services and products.",
+      "initial_price": 18.86,
+      "price_2002": 14.25,
+      "price_2007": 29.66,
+      "symbol": "CSCO"
+  },
+  {
+      "company": "Bank of America Corporation",
+      "description": "Bank of America Corporation is an American multinational investment bank and financial services holding company. It is the second-largest banking institution in the United States, after JPMorgan Chase.",
+      "initial_price": 24.98,
+      "price_2002": 62.86,
+      "price_2007": 51.90,
+      "symbol": "BAC"
+  },
+  {
+      "company": "The Walt Disney Company",
+      "description": "The Walt Disney Company, commonly known as Disney, is an American diversified multinational mass media and entertainment conglomerate. It is known for its film studio division, Disney Media Networks, and Disney Parks, Experiences and Products.",
+      "initial_price": 14.03,
+      "price_2002": 15.99,
+      "price_2007": 33.63,
+      "symbol": "DIS"
+  },
+  {
+      "company": "Chevron Corporation",
+      "description": "Chevron Corporation is an American multinational energy corporation. It is one of the world's largest oil companies.",
+      "initial_price": 37.86,
+      "price_2002": 53.00,
+      "price_2007": 78.79,
+      "symbol": "CVX"
+  },
+  {
+      "company": "Adobe Inc.",
+      "description": "Adobe Inc. is an American multinational computer software company. It is known for its Adobe Flash web software ecosystem, Photoshop image editing software, Adobe Illustrator vector graphics editor, Acrobat Reader, and the Portable Document Format (PDF).",
+      "initial_price": 14.40,
+      "price_2002": 15.42,
+      "price_2007": 42.86,
+      "symbol": "ADBE"
+  },
+  {
+      "company": "McDonald's Corporation",
+      "description": "McDonald's Corporation is an American fast food company. It is the world's largest restaurant chain by revenue, serving over 69 million customers daily in over 100 countries.",
+      "initial_price": 17.56,
+      "price_2002": 16.67,
+      "price_2007": 51.70,
+      "symbol": "MCD"
+  },
+  {
+      "company": "The Home Depot, Inc.",
+      "description": "The Home Depot, Inc. is an American home improvement supplies retailing company. It sells tools, construction products, and services.",
+      "initial_price": 9.02,
+      "price_2002": 14.55,
+      "price_2007": 37.04,
+      "symbol": "HD"
+  },
+  {
+      "company": "NVIDIA Corporation",
+      "description": "NVIDIA Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California. It designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market.",
+      "initial_price": 17.16,
+      "price_2002": 8.83,
+      "price_2007": 32.17,
+      "symbol": "NVDA"
+  },
+  {
+      "company": "Mastercard Incorporated",
+      "description": "Mastercard Incorporated is an American multinational financial services corporation. It facilitates transactions between banks for merchants and card-issuing banks.",
+      "initial_price": 39.08,
+      "price_2002": 0,
+      "price_2007": 0,
+      "symbol": "MA"
+  },
+  {
+      "company": "Costco Wholesale Corporation",
+      "description": "Costco Wholesale Corporation is an American multinational corporation which operates a chain of membership-only warehouse clubs. As of 2020, Costco was the fifth largest retailer in the world, and the world's largest retailer of choice and prime beef, organic foods, rotisserie chicken, and wine.",
+      "initial_price": 28.18,
+      "price_2002": 25.51,
+      "price_2007": 55.47,
+      "symbol": "COST"
+  },
+  {
+      "company": "IBM (International Business Machines Corporation)",
+      "description": "IBM (International Business Machines Corporation) is an American multinational technology company headquartered in Armonk, New York. It produces and sells computer hardware, middleware, and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology.",
+      "initial_price": 78.81,
+      "price_2002": 83.92,
+      "price_2007": 101.70,
+      "symbol": "IBM"
+  }
+]

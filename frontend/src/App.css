@@ -1,0 +1,107 @@
+body {
+  font-weight: "Arial", sans-serif;
+  /* background-color: #0000; */
+  margin:0;
+  padding: 0;
+  color: black;
+  /* background-color: black; */
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #1f454d;
+}
+
+h2 {
+  color: #3c8d93;
+  margin-top: 30px;
+}
+
+ul {
+  width: 50vw;
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: black;
+  margin: 0px 100px 0px 320px;
+}
+
+li {
+  /* background-color: #3c8d93; */
+  /* color: #d9d7ca; */
+  padding: 3px;
+  /* margin: 0px 0; */
+  border-radius: 5px;
+  border-bottom: 1px dashed gray;
+  display: grid;
+  grid-template-columns: 85% 10% 5%;
+  /* font-size: 12px; */
+  text-align: start;
+  align-items: center;
+}
+
+button {
+  /* background-color: #3c8d93; */
+  color: #d9d7ca;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; 
+  border: none;
+  text-decoration: none;
+  background-color: white;
+}
+
+.watchlist {
+  color: green;
+  font-size: 18px;
+  border-radius: none;
+  
+}
+
+button:hover {
+  opacity: 0.6;
+}
+
+/* Navigation bar styles */
+nav {
+  background-color: #1f454d;
+  padding: 15px 0;
+}
+
+nav a {
+  color: #d9d7ca;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #3c8d93;
+}
+
+@media only screen and (max-width: 750px) {
+  .App {
+    padding: 10px;
+  }
+
+  li {
+    grid-template-columns: 70% 20% 10%;
+  }
+
+  nav a {
+    margin: 0 10px;
+  }
+
+  ul {
+    width: 100%;
+    margin: 0px;
+  }
+}
