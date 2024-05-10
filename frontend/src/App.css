@@ -31,7 +31,7 @@ ul {
   margin: 0px 100px 0px 320px;
 }
 
-li {
+li,.company-Stock-Watchlist {
   /* background-color: #3c8d93; */
   /* color: #d9d7ca; */
   padding: 3px;
@@ -39,10 +39,17 @@ li {
   border-radius: 5px;
   border-bottom: 1px dashed gray;
   display: grid;
-  grid-template-columns: 85% 10% 5%;
+  grid-template-columns: 80% 10% 10%;
   /* font-size: 12px; */
   text-align: start;
   align-items: center;
+}
+
+.company-Stock-Watchlist {
+  color: gray;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 16px;
 }
 
 button {
@@ -71,21 +78,36 @@ button:hover {
 
 /* Navigation bar styles */
 nav {
-  background-color: #1f454d;
-  padding: 15px 0;
+  padding: 13px 0;
+  border-bottom: 2px solid gray;
+}
+
+nav {
+  padding: 13px 0;
+  border-bottom: 1px solid gray;
 }
 
 nav a {
-  color: #d9d7ca;
+  color: #000;
   text-decoration: none;
   margin: 0 20px;
   font-size: 18px;
+  font-weight: 500;
   transition: color 0.3s ease;
 }
 
-nav a:hover {
-  color: #3c8d93;
+nav a.active {
+  padding: 10px 0;
+  border-bottom: 4px solid #00B386;
+  color: #00B386; /* Change text color when active */
 }
+
+nav a:hover {
+  color: #00B386;
+  padding: 10px 0;
+  border-bottom: 4px solid #00B386; /* Add border to nav when link hovered */
+}
+
 
 @media only screen and (max-width: 750px) {
   .App {
@@ -94,6 +116,11 @@ nav a:hover {
 
   li {
     grid-template-columns: 70% 20% 10%;
+  }
+
+  .company-Stock-Watchlist {
+    font-size: 13px;
+    grid-template-columns: 70% 15% 15%;
   }
 
   nav a {

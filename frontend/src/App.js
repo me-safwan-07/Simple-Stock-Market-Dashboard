@@ -27,11 +27,16 @@ const Stocks = ({ addToWatchlist }) => {
  
     return (
         <div className="App">
-            <h1>Stock Market MERN App</h1>
-            <h2>Stocks</h2>
+            <h1>Stock Market Dashboard</h1>
+            <h2>Top by Market Cap</h2>
             <div className="table">
-                
+            
             <ul>
+            <div className="company-Stock-Watchlist">
+                <span className="Company">Company</span>
+                <span className="Price">Price</span>
+                <span className="Watchlist">Watchlist</span>
+            </div>
                 {stocks.map((stock) => (
                     <li key={stock.symbol}>
                         {stock.company} ({stock.symbol}) -
@@ -58,9 +63,13 @@ const Watchlist = ({ watchlist }) => {
  
     return (
         <div className="App">
-            <h1>Stock Market MERN App</h1>
+            <h1>Stock Market Dashboard</h1>
             <h2>My Watchlist</h2>
             <ul>
+                <div className="company-Stock-Watchlist">
+                    <span className="company">Company</span>
+                    <span className="price">Price</span>
+                </div>
                 {watchlist.map((stock) => (
                     <li key={stock.symbol}>
                         {stock.company} ({stock.symbol}) -
@@ -75,6 +84,7 @@ const Watchlist = ({ watchlist }) => {
     );
 };
  
+
 function App() {
     const [watchlist, setWatchlist] = useState([]);
  
