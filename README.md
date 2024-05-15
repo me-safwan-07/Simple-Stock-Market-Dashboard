@@ -29,7 +29,7 @@ To use the project, follow these steps:
 
 ## Credits
 
-- [Your Name](https://github.com/me-safwan-07): Muhammed Safwan
+- [Muhammed Safwan](https://github.com/me-safwan-07)
 
 ## License
 
